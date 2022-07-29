@@ -1,16 +1,19 @@
-### Hi there 👋
+## 你活得像诗 没有归宿却足够酷 🧑🏻‍💻
 
-<!--
-**RoyRao2333/royrao2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<image src="https://s6.jpg.cm/2022/07/29/P7Zurz.gif" align="center" />
 
-Here are some ideas to get you started:
+## Hi, this is Roy! <image src="https://s6.jpg.cm/2022/07/29/P7Z5dw.gif" width="24px" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<a href="https://github.com/RoyRao2333" target="_blank">
+<image src="https://github-readme-stats.vercel.app/api?username=royrao2333&include_all_commits=true&count_private=true&show_icons=true&theme=buefy" height="193px" />
+</a>
+
+<a href="https://github.com/RoyRao2333" target="_blank">
+<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=royrao2333&layout=compact" height="193px" />
+</a>
+
+</div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">♡ GitHub Readme Stats</a>
