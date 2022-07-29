@@ -14,11 +14,11 @@
 
 <div align="center">
 
-<a href="https://github.com/RoyRao2333" target="_blank">
+<a href="https://github.com/RoyRao2333">
 <image src="https://github-readme-stats.vercel.app/api?username=royrao2333&include_all_commits=true&count_private=true&show_icons=true&theme=buefy" height="193px" />
 </a>
 
-<a href="https://github.com/RoyRao2333" target="_blank">
+<a href="https://github.com/RoyRao2333">
 <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=royrao2333&layout=compact" height="193px" />
 </a>
 
@@ -28,25 +28,25 @@
 
 <div >
 
-💬 <a href="https://www.swift.org/" target="_blank"><image src="https://img.shields.io/static/v1?label=Swift&message=5&style=for-the-badge&labelColor=FFFFFF&logo=swift&color=F05138" align="center" /></a> <a href="https://www.typescriptlang.org/" target="_blank"><image src="https://img.shields.io/static/v1?label=TypeScript&message=4&style=for-the-badge&labelColor=FFFFFF&logo=typescript&color=3178C6" align="center" /></a> <a href="https://www.python.org/" target="_blank"><image src="https://img.shields.io/static/v1?label=Python&message=3&style=for-the-badge&labelColor=FFFFFF&logo=python&color=3776AB" align="center" /></a> <a href="https://kotlinlang.org/" target="_blank"><image src="https://img.shields.io/static/v1?label=Kotlin&message=1&style=for-the-badge&labelColor=FFFFFF&logo=kotlin&color=7F52FF" align="center" /></a>
+💬 <a href="https://www.swift.org/"><image src="https://img.shields.io/static/v1?label=Swift&message=5&style=for-the-badge&labelColor=FFFFFF&logo=swift&color=F05138" align="center" /></a> <a href="https://www.typescriptlang.org/"><image src="https://img.shields.io/static/v1?label=TypeScript&message=4&style=for-the-badge&labelColor=FFFFFF&logo=typescript&color=3178C6" align="center" /></a> <a href="https://www.python.org/"><image src="https://img.shields.io/static/v1?label=Python&message=3&style=for-the-badge&labelColor=FFFFFF&logo=python&color=3776AB" align="center" /></a> <a href="https://kotlinlang.org/"><image src="https://img.shields.io/static/v1?label=Kotlin&message=1&style=for-the-badge&labelColor=FFFFFF&logo=kotlin&color=7F52FF" align="center" /></a>
 
 </div>
 
 <div >
 
-💻 <a href="https://www.swift.org/" target="_blank"><image src="https://img.shields.io/static/v1?label=iOS/macOS&message=Swift&style=for-the-badge&labelColor=FFFFFF&logo=swift&color=F05138" align="center" /></a> <a href="https://reactnative.dev/" target="_blank"><image src="https://img.shields.io/static/v1?label=iOS/Android&message=React Native&style=for-the-badge&labelColor=FFFFFF&logo=react&color=61DAFB" align="center" /></a>
+💻 <a href="https://www.swift.org/"><image src="https://img.shields.io/static/v1?label=iOS/macOS&message=Swift&style=for-the-badge&labelColor=FFFFFF&logo=swift&color=F05138" align="center" /></a> <a href="https://reactnative.dev/"><image src="https://img.shields.io/static/v1?label=iOS/Android&message=React Native&style=for-the-badge&labelColor=FFFFFF&logo=react&color=61DAFB" align="center" /></a>
 
 </div>
 
 <div >
 
-🗄 <a href="https://www.mysql.com/" target="_blank"><image src="https://img.shields.io/static/v1?label=MySQL&message=8&style=for-the-badge&labelColor=FFFFFF&logo=mysql&color=4479A1" align="center" /></a>
+🗄 <a href="https://www.mysql.com/"><image src="https://img.shields.io/static/v1?label=MySQL&message=8&style=for-the-badge&labelColor=FFFFFF&logo=mysql&color=4479A1" align="center" /></a>
 
 </div>
 
 <div >
 
-🎨 <a href="https://www.figma.com/" target="_blank"><image src="https://img.shields.io/static/v1?label=Figma&message=Handy&style=for-the-badge&labelColor=FFFFFF&logo=figma&color=F24E1E" align="center" /></a> <a href="https://www.sketch.com/" target="_blank"><image src="https://img.shields.io/static/v1?label=Sketch&message=Handy&style=for-the-badge&labelColor=FFFFFF&logo=sketch&color=F7B500" align="center" /></a>
+🎨 <a href="https://www.figma.com/"><image src="https://img.shields.io/static/v1?label=Figma&message=Handy&style=for-the-badge&labelColor=FFFFFF&logo=figma&color=F24E1E" align="center" /></a> <a href="https://www.sketch.com/"><image src="https://img.shields.io/static/v1?label=Sketch&message=Handy&style=for-the-badge&labelColor=FFFFFF&logo=sketch&color=F7B500" align="center" /></a>
 
 </div>
 
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<a href="https://royrao2333.github.io/blog/" target="_blank">🧑🏻‍💻 技术博客</a>
+<a href="https://royrao2333.github.io/blog/">🧑🏻‍💻 技术博客</a>
 
 <p>Coding changes the world</p>
 
@@ -64,6 +64,6 @@
 
 <div align="right">
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">♡ GitHub Readme Stats</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">♡ GitHub Readme Stats</a>
 
 </div>
