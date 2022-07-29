@@ -1,8 +1,8 @@
-## 你活得像诗 没有归宿却足够酷 🏝
+<h2 align="center">你活得像诗 没有归宿却足够酷 🏝</h2>
 
 <image src="https://s6.jpg.cm/2022/07/29/P7Zurz.gif" align="center" alt="GIF" />
 
-### <image src="https://s6.jpg.cm/2022/07/29/P7Z5dw.gif" alt="GIF" width="24px" /> Hi! This is Roy
+<h2 align="center"><image src="https://s6.jpg.cm/2022/07/29/P7Z5dw.gif" alt="GIF" width="24px" /> Hi! This is Roy</h2>
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 
 </div>
 
-### 🛠 技术栈 | Tech Stack
+## 🛠 技术栈 | Tech Stack
 
 <div >
 
