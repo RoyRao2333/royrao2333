@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<a href="https://royrao2333.github.io/blog/">🧑🏻‍💻 技术博客</a>
+<a href="https://royrao2333.github.io/">🧑🏻‍💻 技术博客</a>
 
 <p>Coding changes the world</p>
 
