@@ -10,6 +10,8 @@
 
 <p>🐼 Currently working in Chengdu, China</p>
 
+<p>💵 Looking forward to the early realization of wealth and freedom</p>
+
 </div>
 
 <div align="center">
