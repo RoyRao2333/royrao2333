@@ -58,6 +58,10 @@
 
 <a href="https://royrao2333.github.io/">🧑🏻‍💻 技术博客</a>
 
+<image src="https://user-images.githubusercontent.com/31413093/187115164-3c1e5a43-64bc-44cd-a145-593a35b53513.GIF" align="center" alt="GIF" height="100px" />
+
+&nbsp;
+
 <p>Coding changes the world</p>
 
 </div>
