@@ -36,7 +36,7 @@
 
 <div >
 
-💻 <a href="https://www.swift.org/"><image src="https://img.shields.io/static/v1?label=iOS/macOS&message=Swift&style=for-the-badge&labelColor=FFFFFF&logo=swift&color=F05138" align="center" /></a> <a href="https://reactnative.dev/"><image src="https://img.shields.io/static/v1?label=iOS/Android&message=React Native&style=for-the-badge&labelColor=FFFFFF&logo=react&color=61DAFB" align="center" /></a>
+💻 <a href="https://www.swift.org/"><image src="https://img.shields.io/static/v1?label=iOS%2FmacOS&message=Swift&style=for-the-badge&labelColor=FFFFFF&logo=swift&color=F05138" align="center" /></a> <a href="https://reactnative.dev/"><image src="https://img.shields.io/static/v1?label=iOS%2FAndroid&message=React%20Native&style=for-the-badge&labelColor=FFFFFF&logo=react&color=61DAFB" align="center" /></a> <a href="https://reactjs.org/"><image src="https://img.shields.io/static/v1?label=Front-end&message=React&style=for-the-badge&labelColor=FFFFFF&logo=react&color=61DAFB" align="center" /></a> <a href="https://reactnative.dev/"><image src="https://img.shields.io/static/v1?label=Server-side&message=Kotlin%20%26%20Ktor&style=for-the-badge&labelColor=FFFFFF&logo=kotlin&color=7F52FF" align="center" /></a>
 
 </div>
 
