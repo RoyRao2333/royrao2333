@@ -62,7 +62,7 @@
 
 &nbsp;
 
-<p>Coding changes the world</p>
+<p>你用英语都写不出来的东西就别指望用代码写了。 —— Peter Halpern</p>
 
 </div>
 
