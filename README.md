@@ -1,6 +1,6 @@
 <h2 align="center">你活得像诗 没有归宿却足够酷 🏝</h2>
 
-<image src="https://s6.jpg.cm/2022/07/29/P7Zurz.gif" align="center" alt="GIF" />
+<image src="https://pic4.zhimg.com/v2-da3853cc1f373e9af570b7a8fe372da7_r.gif" align="center" alt="GIF" />
 
 <h2 align="center"><image src="https://s6.jpg.cm/2022/07/29/P7Z5dw.gif" alt="GIF" width="24px" /> Hi! This is Roy</h2>
 
