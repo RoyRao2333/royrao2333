@@ -32,25 +32,19 @@
 
 <div >
 
-💬 <a href="https://www.swift.org/"><image src="https://img.shields.io/static/v1?label=Swift&message=HANDY&style=for-the-badge&labelColor=FFFFFF&logo=swift&color=F05138" align="center" /></a> <a href="https://www.typescriptlang.org/"><image src="https://img.shields.io/static/v1?label=TypeScript&message=HANDY&style=for-the-badge&labelColor=FFFFFF&logo=typescript&color=3178C6" align="center" /></a> <a href="https://www.python.org/"><image src="https://img.shields.io/static/v1?label=Python&message=Familiar&style=for-the-badge&labelColor=FFFFFF&logo=python&color=3776AB" align="center" /></a> <a href="https://kotlinlang.org/"><image src="https://img.shields.io/static/v1?label=Kotlin&message=Familiar&style=for-the-badge&labelColor=FFFFFF&logo=kotlin&color=7F52FF" align="center" /></a>
+💻 <a href="https://www.swift.org/"><image src="https://img.shields.io/badge/swift-white?style=for-the-badge&logo=swift" align="center" /></a> <a href="https://www.typescriptlang.org/"><image src="https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript" align="center" /></a> <a href="https://www.python.org/"><image src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" align="center" /></a> <a href="https://kotlinlang.org/"><image src="https://img.shields.io/badge/kotlin-white?style=for-the-badge&logo=kotlin" align="center" /></a> <a href="https://react.dev"><image src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react" align="center" /></a> <a href="https://reactnative.dev"><image src="https://img.shields.io/badge/react%20native-white?style=for-the-badge&logo=react" align="center" /></a>
 
 </div>
 
 <div >
 
-💻 <a href="https://www.swift.org/"><image src="https://img.shields.io/static/v1?label=iOS%2FmacOS&message=handy&style=for-the-badge&labelColor=FFFFFF&logo=swift&color=F05138" align="center" /></a> <a href="https://reactnative.dev/"><image src="https://img.shields.io/static/v1?label=iOS%2FAndroid&message=handy&style=for-the-badge&labelColor=FFFFFF&logo=react&color=61DAFB" align="center" /></a> <a href="https://reactjs.org/"><image src="https://img.shields.io/static/v1?label=Web&message=handy&style=for-the-badge&labelColor=FFFFFF&logo=react&color=61DAFB" align="center" /></a> <a href="https://ktor.io/"><image src="https://img.shields.io/static/v1?label=Server&message=Familiar&style=for-the-badge&labelColor=FFFFFF&logo=kotlin&color=7F52FF" align="center" /></a>
+🗄 <a href="https://www.mysql.com/"><image src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql" align="center" /></a>
 
 </div>
 
 <div >
 
-🗄 <a href="https://www.mysql.com/"><image src="https://img.shields.io/static/v1?label=MySQL&message=Familiar&style=for-the-badge&labelColor=FFFFFF&logo=mysql&color=4479A1" align="center" /></a>
-
-</div>
-
-<div >
-
-🎨 <a href="https://www.figma.com/"><image src="https://img.shields.io/static/v1?label=Figma&message=Handy&style=for-the-badge&labelColor=FFFFFF&logo=figma&color=F24E1E" align="center" /></a> <a href="https://www.sketch.com/"><image src="https://img.shields.io/static/v1?label=Sketch&message=Handy&style=for-the-badge&labelColor=FFFFFF&logo=sketch&color=F7B500" align="center" /></a>
+🎨 <a href="https://www.figma.com/"><image src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma" align="center" /></a> <a href="https://www.sketch.com/"><image src="https://img.shields.io/badge/sketch-white?style=for-the-badge&logo=sketch" align="center" /></a>
 
 </div>
 
